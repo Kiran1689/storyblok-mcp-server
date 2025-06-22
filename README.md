@@ -478,11 +478,17 @@ With the Storyblok MCP Server, your AI assistant can:
 > [!NOTE]
 > Make sure you have installed `uv` on your system
 
+Restart your Claude Desktop and chek the tools. It will show total number tools available if you connected successfully.
+
+![Claude Desktop](./assets/claude.png)
+
 5. **Run and Test Locally**
    - You can also run and test the server locally using MCP Inspector:
    ```sh
    mcp run server.py
    ```
+
+  ![mcp inspector](./assets/inspector.png)
 
 ## Example Questions
 
