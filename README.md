@@ -1,6 +1,23 @@
-# Storyblok MCP Server
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner_white.png">
+  <img align="center" alt="banner" src="./assets/banner_white.png">
+</picture>
+
+<div align="center">
+   
+# Storyblok MCP Server 🚀
 
 The Storyblok MCP ([Model Context Protocol](https://modelcontextprotocol.io/introduction)) server enables your AI assistants to directly access and manage your Storyblok spaces, stories, components, assets, workflows, and more.
+
+<a href="https://www.storyblok.com/docs/api/management/getting-started" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/documentation-storyblok-blue" alt="documentation" /></a>
+<a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-python-yellow?style=flat" /></a>
+<a href="https://github.com/Kiran1689" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/built_with-love-red" alt="built with love badge" /></a>
+<img src="https://img.shields.io/badge/built_for-developers-dcd4fc" alt="built for developers badge" /></a>
+<img src="https://img.shields.io/badge/built_for-marketers-bce4fb" alt="built for marketers badge" /></a>
+
+
+</div>
 
 ## What Does It Do?
 
