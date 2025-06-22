@@ -59,7 +59,7 @@ A modular, extensible Python server for managing Storyblok spaces, stories, comp
 ```json
 {
     "mcpServers": {
-        "storyblok-mcp-server": {
+        "storyblok": {
             "command": "uv",
             "args": [
                 "run",
@@ -67,7 +67,7 @@ A modular, extensible Python server for managing Storyblok spaces, stories, comp
                 "mcp",
                 "mcp",
                 "run",
-                "C:\\path\\to\\storyblok_mcp_server\\server.py"
+                "C:\\path\\to\\storyblok-mcp-server\\server.py"
             ],
             "env": {
                 "STORYBLOK_SPACE_ID": "your_space_id",
