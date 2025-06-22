@@ -187,6 +187,7 @@ With the Storyblok MCP Server, your AI assistant can:
 ### Components Folder
 <details>
 <summary>Manage folders for components</summary>
+  
 - `retrieve_multiple_component_folders`: List component folders
 - `create_component_folder`: Create a new component folder
 - `update_component_folder`: Update a component folder
@@ -389,6 +390,7 @@ With the Storyblok MCP Server, your AI assistant can:
 ### Webhooks
 <details>
 <summary>Manage webhooks (CRUD, trigger)</summary>
+  
 - `retrieve_multiple_webhooks`: List webhooks
 - `retrieve_single_webhook`: Get a specific webhook
 - `add_webhook`: Add a new webhook
