@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kiran1689-storyblok-mcp-server-badge.png)](https://mseep.ai/app/kiran1689-storyblok-mcp-server)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner_white.png">
